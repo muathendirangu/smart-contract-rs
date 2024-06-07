@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+near-sdk = "4.1.1"
+borsh = "0.10.3"
+serde = "1.0.189"
